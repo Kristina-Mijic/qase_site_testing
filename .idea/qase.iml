@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/cypress" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cypress/e2e" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cypress/fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cypress/support" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cypress/support/pages" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
